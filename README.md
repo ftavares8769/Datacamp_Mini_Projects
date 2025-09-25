@@ -6,6 +6,7 @@ The mini-projects here are grouped together in this single repository, while my 
 
 ## Contents
 
+- **Dr. Semmelweis and the Importance of Handwashing** — investigating maternal mortality data from 19th century Vienna and showing the dramatic impact of handwashing on reducing deaths  
 - **Sleep Health** — exploring the relationship between lifestyle factors and sleep disorders  
 - **Schools** — analyzing school bus and district data  
 - **Netflix** — investigating trends in Netflix’s catalog over time  
